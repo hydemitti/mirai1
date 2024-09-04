@@ -1,0 +1,14 @@
+testrole_user1				testrole_user2			
+
+
+Z_ITFBE	ツール作成用BE	-	meisyo	○	○	○	-	-	○	○	-
+Z_ITFBE	ツール作成用BE	-	code	○	○	○	-	-	○	○	-
+Z_ITFBE	ツール作成用BE	-	address	○	○	○	-	-	○	○	-
+Z_ITFBE	ツール作成用BE	-	new_date	○	○	○	-	-	○	○	-
+Z_ITFBE	ツール作成用BE	-	flag	○	○	○	-	-	○	○	-
+Z_ITFBE	ツール作成用BE	-	number	○	○	○	-	-	○	○	-
+Z_ITFBE	ツール作成用BE	-	delete_kbn	○	○	○	-	-	○	○	-
+Z_ITFBE	ツール作成用BE	-	card_no	○	○	○	-	-	○	○	-
+Z_ITFBE	ツール作成用BE	-	meisyo	○	○	○	-	-	○	○	-
+Z_ITFBE	ツール作成用BE	FG1	card_no	○	○	○	-	-	○	○	-
+Z_ITFBE	ツール作成用BE	FG1	meisyo	○	○	○	-	-	○	○	-
